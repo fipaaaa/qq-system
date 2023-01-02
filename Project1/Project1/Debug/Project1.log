@@ -1,0 +1,9 @@
+﻿  多态实现.cpp
+c:\users\咕噜咕噜老番笳\desktop\程序设计课设\project1\project1\多态实现.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\咕噜咕噜老番笳\desktop\程序设计课设\project1\project1\多态实现.cpp(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\咕噜咕噜老番笳\desktop\程序设计课设\project1\project1\多态实现.cpp(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\咕噜咕噜老番笳\desktop\程序设计课设\project1\project1\多态实现.cpp(7): warning C4081: 应输入“newline”；找到“;”
+c:\users\咕噜咕噜老番笳\desktop\程序设计课设\project1\project1\多态实现.cpp(364): warning C4101: “t”: 未引用的局部变量
+c:\users\咕噜咕噜老番笳\desktop\程序设计课设\project1\project1\多态实现.cpp(86): warning C4715: “wxidfind”: 不是所有的控件路径都返回值
+c:\users\咕噜咕噜老番笳\desktop\程序设计课设\project1\project1\多态实现.cpp(97): warning C4715: “qqidfind”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\咕噜咕噜老番笳\Desktop\程序设计课设\Project1\Debug\Project1.exe
